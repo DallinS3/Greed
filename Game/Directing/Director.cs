@@ -1,5 +1,5 @@
 using System.Collections.Generic;
-using Greed.Game.Casting;
+using Game.Casting;
 using Greed.Game.Services;
 
 

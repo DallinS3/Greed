@@ -1,4 +1,4 @@
-namespace Greed.Game.Casting{
+namespace Game.Casting{
         /// <summary>
         /// <para>An item of cultural or historical interest.</para>
         /// <para>

@@ -1,7 +1,7 @@
 using System;
 
 
-namespace Greed.Game.Casting
+namespace Game.Casting
 {
     /// <summary>
     /// <para>A thing that participates in the game.</para>

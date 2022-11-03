@@ -1,5 +1,5 @@
 using Raylib_cs;
-using Greed.Game.Casting;
+using Game.Casting;
 
 
 namespace Greed.Game.Services

@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 
 
-namespace Greed.Game.Casting
+namespace Game.Casting
 {
     /// <summary>
     /// <para>A color.</para>
