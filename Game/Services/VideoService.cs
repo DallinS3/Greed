@@ -67,7 +67,7 @@ namespace Greed.Game.Services
             int x = actor.GetPosition().GetX();
             int y = actor.GetPosition().GetY();
             int fontSize = actor.GetFontSize();
-            Casting.Color c = actor.GetColor();
+            Casting.color c = actor.GetColor();
             Raylib_cs.Color color = ToRaylibColor(c);
             Raylib.DrawText(text, x, y, fontSize, color);
         }
